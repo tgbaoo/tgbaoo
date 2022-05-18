@@ -68,12 +68,12 @@ I am a Full Stack Developer Learner <img src="https://media.giphy.com/media/WUlp
 </div>
 
 # 🏆 GitHub Cup
-![](https://github-profile-trophy.vercel.app/?username=giabao314&theme=tokyonight&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tgbaoo&theme=tokyonight&margin-w=4)
 
 # 🔥 Git stats & Streak                                                                                                                                               
-![](https://github-readme-stats.vercel.app/api?username=giabao314&show_icons=true&theme=cobalt)
-![](https://github-readme-streak-stats.herokuapp.com/?user=giabao314&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=giabao314&theme=cobalt&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tgbaoo&show_icons=true&theme=cobalt)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tgbaoo&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tgbaoo&theme=cobalt&include_all_commits=true&count_private=true&layout=compact)
 
                                                                                                                                                
 ---
