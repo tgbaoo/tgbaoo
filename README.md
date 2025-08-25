@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/aAbax5anloMNk6TSP9/giphy.gif" width=40%" />
     <div id="badges" align="center">
         <a href="your-linkedin-URL">
             <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook.com/baopro112211" />
